@@ -1,4 +1,3 @@
-import BulletController from "./BulletController.js";
 export default class Player {
     constructor(x, y, bulletController) {
         this.x = x;

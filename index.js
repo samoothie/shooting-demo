@@ -1,5 +1,5 @@
-import Player from "../Player.js/index.js";
-import Enemy from "./enemy.js"
+import Player from "./Player.js";
+import Enemy from "./Enemy.js"
 import BulletController from "./BulletController.js";
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
