@@ -18,7 +18,7 @@ const enemies = [
     new Enemy(150, 100, 'orange', 13),
     new Enemy(250, 100, 'green', 5),
     new Enemy(350, 100, 'blue', 10),
-]
+];
 function gameLoop() {
     setCommonStyle();
     ctx.fillStyle = "black";
